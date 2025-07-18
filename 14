@@ -1,0 +1,6 @@
+Q2create a function add(a,b)that returns the sum of two number. call the function with inputs.
+
+#def add(a, b):
+ #   return a + b
+#result = add(10, 20)
+#print("Sum:", result)
