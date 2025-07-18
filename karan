@@ -1,0 +1,4 @@
+#Q1 create the function gret(name)that prints "hello,[name]!"
+#def greet(name):
+ #   print(f"Hello, {name}!")
+#greet("Karan")
